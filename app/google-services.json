@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937976387503",
+    "project_id": "jwtuppgdemo",
+    "storage_bucket": "jwtuppgdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937976387503:android:f3f89120cd14a2a7f6415a",
+        "android_client_info": {
+          "package_name": "com.jwtuppg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhCepBK5DkGjvf-jxPl4oytvuOoNngW4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
